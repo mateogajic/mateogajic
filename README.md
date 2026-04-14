@@ -3,14 +3,6 @@
 ### 🔭 Explorando nuevas fronteras
 Actualmente estoy profundizando en desarrollo web.
 
----
-
-### 🛠 Ecosistema de trabajo
-* **Editor:** VS Code
-* **SO:** macOS
-* **Terminal:** Bash
-
----
 <!--
 **mateogajic/mateogajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
