@@ -1,6 +1,6 @@
 # 👋 Hola, soy Mateo.
 
-### 🔭 Explorando nuevas fronteras
+### Explorando nuevas fronteras
 Actualmente estoy profundizando en desarrollo web.
 
 <!--
